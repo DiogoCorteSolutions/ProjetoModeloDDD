@@ -1,0 +1,4 @@
+D:\Projetos\ProjetoModeloDDD\ProjetModeloDDD.Dommain\bin\Debug\ProjetModeloDDD.Dommain.dll
+D:\Projetos\ProjetoModeloDDD\ProjetModeloDDD.Dommain\bin\Debug\ProjetModeloDDD.Dommain.pdb
+D:\Projetos\ProjetoModeloDDD\ProjetModeloDDD.Dommain\obj\Debug\ProjetModeloDDD.Dommain.dll
+D:\Projetos\ProjetoModeloDDD\ProjetModeloDDD.Dommain\obj\Debug\ProjetModeloDDD.Dommain.pdb
